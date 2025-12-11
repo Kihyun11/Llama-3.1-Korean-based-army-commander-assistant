@@ -1,1 +1,0 @@
-# Llama-3.1-Korean-based-army-commander-assistant
