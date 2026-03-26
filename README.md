@@ -4,7 +4,9 @@
 
 TACTIC-L2L pits two local language models against each other in a structured 3-round wargame debate over fictional Korean military tactical scenarios. An OpenAI GPT judge then evaluates both transcripts and produces a scored verdict.
 
-![TACTIC-L2L Framework](figure/TACTIC-L2L%20framework.png)
+<p align="center">
+  <img src="figure/TACTIC-L2L%20framework.png" width="75%"/>
+</p>
 
 ---
 
